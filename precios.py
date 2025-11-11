@@ -1,0 +1,13 @@
+precios = [50, 75, 46, 22, 80, 65, 8]
+
+
+menor = min(precios)
+
+mayor = max(precios)
+
+
+print("Lista de precios:", precios)
+
+print(f"Precio menor: {menor}")
+
+print(f"Precio mayor: {mayor}")
